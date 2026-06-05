@@ -132,34 +132,12 @@ imdb-transformer-sentiment/
 
 ---
 
-## 🔧 Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Junaid-Ahmed-Rupok/imdb-transformer-sentiment.git
-   cd imdb-transformer-sentiment
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open `imdb_transformer_sentiment.ipynb` in Google Colab
-
-4. Set runtime to **T4 GPU** (Runtime → Change runtime type)
-
-5. Mount your Google Drive and place `IMDB_Dataset.csv` in root
-
-6. Run all cells in order
+1. Open `imdb_transformer_sentiment.ipynb` in Google Colab
+2. Set runtime to **T4 GPU** (Runtime → Change runtime type)
+3. Mount your Google Drive and place `IMDB_Dataset.csv` in root
+4. Run all cells in order
 
 ---
 
