@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🎬 IMDb Transformer Sentiment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
@@ -153,4 +150,3 @@ imdb-transformer-sentiment/
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
