@@ -38,7 +38,6 @@ imdb-transformer-sentiment/
 ├── imdb_transformer_sentiment.ipynb
 ├── requirements.txt
 └── README.md
-
 ---
 
 ## 📊 Dataset
