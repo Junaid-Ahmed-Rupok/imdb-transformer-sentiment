@@ -36,8 +36,8 @@ imdb-transformer-sentiment/
 │   └── 06_sample_predictions.png
 │
 ├── imdb_transformer_sentiment.ipynb
+├── requirements.txt
 └── README.md
-```
 
 ---
 
