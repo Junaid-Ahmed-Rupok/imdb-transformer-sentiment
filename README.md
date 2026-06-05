@@ -134,8 +134,6 @@ imdb-transformer-sentiment/
 
 ## 📦 Requirements
 
-Install all dependencies with:
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -174,4 +172,3 @@ pip install -r requirements.txt
 
 This project is licensed under the MIT License.
 ```
-
