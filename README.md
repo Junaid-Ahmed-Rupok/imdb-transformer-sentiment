@@ -1,4 +1,3 @@
-```markdown
 # 🎬 IMDb Transformer Sentiment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
@@ -37,7 +36,6 @@ imdb-transformer-sentiment/
 │   └── 06_sample_predictions.png
 │
 ├── imdb_transformer_sentiment.ipynb
-├── requirements.txt
 └── README.md
 ```
 
@@ -152,4 +150,12 @@ imdb-transformer-sentiment/
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
+
+
+
+
+
+
+This was the best and aesthetically beautiul.
+Why did you change it?
+I just gave you to update the file about the requiremnts file.
